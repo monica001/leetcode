@@ -1,5 +1,7 @@
 # leetcode
 
+8/06 38. Count and Say
+
 8/05 28. Implement strStr()
 
 8/04 20. Valid Parentheses
