@@ -1,14 +1,16 @@
 # leetcode
-8/08 58. Length of Last Word
+8-8/09 67. Add Binary
 
-8/06 38. Count and Say
+7-8/08 58. Length of Last Word
 
-8/05 28. Implement strStr()
+6-8/06 38. Count and Say
 
-8/04 20. Valid Parentheses
+5-8/05 28. Implement strStr()
 
-7/30 14. Longest Common Prefix
+4-8/04 20. Valid Parentheses
 
-7/29 13. Roman to Integer
+3-7/30 14. Longest Common Prefix
 
-7/28 7. Reverse Integer
+2-7/29 13. Roman to Integer
+
+1-7/28 7. Reverse Integer
