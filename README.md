@@ -1,4 +1,8 @@
 # leetcode
+14-8/12 459. Repeated Substring Pattern
+
+13-8/12 434. Number of Segments in a String
+
 12-8/12 383. Ransom Note
 
 11-8/11	345.Reverse Vowels of a String   
