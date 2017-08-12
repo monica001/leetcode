@@ -1,4 +1,6 @@
 # leetcode
+12-8/12 383. Ransom Note
+
 11-8/11	345.Reverse Vowels of a String   
 
 10-8/11	344.Reverse String   
