@@ -1,4 +1,10 @@
 # leetcode
+17-8/13 520. Detect Capital
+
+16-8/13 658. Find K Closest Elements (weekly context 45)
+
+15-8/13 657. Judge Route Circle (weekly context 45)
+
 14-8/12 459. Repeated Substring Pattern
 
 13-8/12 434. Number of Segments in a String
