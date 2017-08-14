@@ -1,4 +1,8 @@
 # leetcode
+19-8/14	541.Reverse String II   
+
+18-8/14 521.Longest Uncommon Subsequence I    
+
 17-8/13 520. Detect Capital
 
 16-8/13 658. Find K Closest Elements (weekly context 45)
