@@ -1,4 +1,15 @@
 # leetcode
+
+增加Array元素的方法 http://knightzone.org/?p=1601
+
+
+22-8/19 66.Plus One 
+22-8/19 53.Maximum Subarray   
+22-8/19 35.Search Insert Position   
+22-8/19 27.Remove Element   
+22-8/19 26.Remove Duplicates from Sorted Array   
+22-8/19 1.Two Sum   
+
 21-8/15 557.Reverse Words in a String III   
 
 20-8/15 551.Student Attendance Record I   
