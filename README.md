@@ -3,6 +3,8 @@
 增加Array元素的方法 http://knightzone.org/?p=1601      
 字串reverse方法 http://tipsandtricks.runicsoft.com/CSharp/StringReverse.html
 
+31-8/21 121.Best Time to Buy and Sell Stock      
+30-8/21 119.Pascal's Triangle II     
 29-8/20 118.Pascal's Triangle      
 28-8/20 88.Merge Sorted Array   
 27-8/19 66.Plus One     
