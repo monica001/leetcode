@@ -1,8 +1,10 @@
 # leetcode
 
 增加Array元素的方法 http://knightzone.org/?p=1601      
-字串reverse方法 http://tipsandtricks.runicsoft.com/CSharp/StringReverse.html
+字串reverse方法 http://tipsandtricks.runicsoft.com/CSharp/StringReverse.html   
 
+33-8/24 167.Two Sum II - Input array is sorted   
+32-8/23 122.Best Time to Buy and Sell Stock II     
 31-8/21 121.Best Time to Buy and Sell Stock      
 30-8/21 119.Pascal's Triangle II     
 29-8/20 118.Pascal's Triangle      
