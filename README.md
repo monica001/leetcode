@@ -3,6 +3,7 @@
 增加Array元素的方法 http://knightzone.org/?p=1601      
 字串reverse方法 http://tipsandtricks.runicsoft.com/CSharp/StringReverse.html   
 
+36-8/26 217.Contains Duplicate    
 35-8/26 189.Rotate Array     
 34-8/26 169.Majority Element   
 33-8/24 167.Two Sum II - Input array is sorted   
