@@ -4,7 +4,8 @@
 字串reverse方法 http://tipsandtricks.runicsoft.com/CSharp/StringReverse.html   
 c++ Vector整理 http://edisonx.pixnet.net/blog/post/34345257-vector-%E5%BF%83%E5%BE%97%E6%95%B4%E7%90%86
 
-
+44-9/2 532.K-diff Pairs in an Array   
+43-9/2 485.Max Consecutive Ones   
 42-9/2 448.Find All Numbers Disappeared in an Array   
 41-8/30 414.Third Maximum Number      
 40-8/30 283.Move Zeroes    
