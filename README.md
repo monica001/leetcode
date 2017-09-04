@@ -3,7 +3,10 @@
 增加Array元素的方法 http://knightzone.org/?p=1601      
 字串reverse方法 http://tipsandtricks.runicsoft.com/CSharp/StringReverse.html   
 c++ Vector整理 http://edisonx.pixnet.net/blog/post/34345257-vector-%E5%BF%83%E5%BE%97%E6%95%B4%E7%90%86
+費波那西數列(Fibonacci)參考 http://emn178.pixnet.net/blog/post/91987861-%E8%B2%BB%E6%B3%A2%E9%82%A3%E8%A5%BF%E6%95%B8%E5%88%97%28fibonacci%29
+C# 二維陣列存取 http://sweetkikibaby.pixnet.net/blog/post/191310453-%E4%BA%8C%E7%B6%AD%E9%99%A3%E5%88%97
 
+47-9/4 566.Reshape the Matrix       
 46-9/3 561.Array Partition I     
 45-9/3 671.Second Minimum Node In a Binary Tree(weekly-contest-48)    
 44-9/2 532.K-diff Pairs in an Array   
