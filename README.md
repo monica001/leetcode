@@ -6,6 +6,7 @@ c++ Vector整理 http://edisonx.pixnet.net/blog/post/34345257-vector-%E5%BF%83%E
 費波那西數列(Fibonacci)參考 http://emn178.pixnet.net/blog/post/91987861-%E8%B2%BB%E6%B3%A2%E9%82%A3%E8%A5%BF%E6%95%B8%E5%88%97%28fibonacci%29            
 C# 二維陣列存取 http://sweetkikibaby.pixnet.net/blog/post/191310453-%E4%BA%8C%E7%B6%AD%E9%99%A3%E5%88%97
 
+57-9/12 15. 3Sum             
 56-9/11 11. Container With Most Water               
 55-9/10 676. Implement Magic Dictionary (Weekly Contest 49)                
 54-9/10 674. Longest Continuous Increasing Subsequence (Weekly Contest 49)       
